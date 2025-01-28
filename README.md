@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biancbrandao
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me biabrandao@outlook.com
+- 📫 How to reach me biancbrandao@gmail.com
 - 😄 Pronouns: She
