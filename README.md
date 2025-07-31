@@ -1,20 +1,16 @@
-### Hello World! 👋🌍
+#### Hello World! 👋🌍
 
     🌟 I'm Bianca, and I'm transitioning my career.
     💻 I'm studying Systems Analysis and Development.
     ⚡ Currently learning Java.
     
-### 📚  Academic Career:
+#### 📚  Academic Career:
         Nurse Graduate (2021)
         Postgraduate Degree in Auditing (2023)
         Family Health Residency (2024)
         Technologist in Systems Analysis and Development (01/2025 - 06/2027)
-### 🪞 About me:
-       I love reading
-       Discovering new things
-       I like nature and adventures
-       I have 3 dogs
-       I'm a vegetarian
+#### 🪞 About me:
+       I love reading, animals, discovering new things, I like nature, adventures and I'm vegtarian.
 
 ### Let's connect! 🔗  
 
